@@ -1,0 +1,14 @@
+
+# swp file
+*.swp
+*.swo
+
+# compiled python
+*.pyc
+*.eggs
+
+# other
+*.DS_Store
+*.instructions
+*.sketch
+
